@@ -32,7 +32,7 @@
         }
     },
     "suggest": {
-        "illuminate/database": "Required to use the database presence verifier (5.0.*)."
+        "royalcms/database": "Required to use the database presence verifier (5.0.*)."
     },
     "minimum-stability": "dev"
 }
