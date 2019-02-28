@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Royalcms\\Component\\Validation\\": ""
+            "Royalcms\\Component\\Validation\\": "Royalcms/Component/Validation"
         }
     },
     "extra": {
